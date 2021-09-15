@@ -8,7 +8,7 @@ public class RandomNumber {
 		System.out.println(y);
 		int z = x + y;
 		System.out.println(z);
-           System.out.println(z);
+           
 
 	}
 }
